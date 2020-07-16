@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(0, 128, 0, 0.041);
+}
+
+input{
+    width: 70% !important;
+    margin: 0 auto !important;
+}
+
+label{
+    color: rgba(0, 0, 255, 0.445);
+    font-weight: bold;
+}
